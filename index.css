@@ -1,13 +1,14 @@
-.pagecontent {
+/*.pagecontent {
       width: 98%;
       mac-width: 960px;
       margin: auto;
-}
+}*/
 h1{
   font-weight: 300;
   font-size: 48pt;
+  color: red;
 }
-.line{
+/*.line{
   width: 100%;
   border-bottom: 2px solid #4C4C4C;
 }
@@ -44,3 +45,4 @@ font-family: "Helvetica Neue";
 color: #444;
 font-weight: 300;
 }
+*/
