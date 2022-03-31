@@ -3,6 +3,10 @@ $(document).ready(function() {
 $("#search").keyup(function() {
 });
 });
+$(document).ready(function() {
+$("#search").keyup(function() {
+});
+});
 var albums = $(".album");
 $(albums).show();
 var searchTerm = $(this).val().toLocaleLowerCase()
